@@ -1,0 +1,361 @@
+#sec1{
+    background-image: url(bg-img1.jpg);
+    animation-name: anim;
+  animation-duration: 4s;
+    background-size:cover ;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+@keyframes anim {
+    from {background-image: url(mint.jpg);}
+    to {background-image: url(bg-img1.jpg);}
+  }
+.sec-box1{
+
+
+    /* height: 300px; */
+}
+
+.buttons{
+ text-align: center;
+ padding-right: 15px;
+}
+.nav-item{
+   
+    padding-right: 50px;
+}
+#mynavbar{
+    padding-right: 50px;
+}
+.h1{
+    text-align: center;
+    font-size: 60px;
+   /* padding-bottom: 150px; */
+
+    
+}
+.head{
+    text-align: center;
+    color: white;
+    font-size: 60px;
+    /* padding-bottom: 200px; */
+}
+.text{
+  
+ /* margin-top: 100px; */
+ padding-bottom: 200px
+ 
+
+}
+.see{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+
+}
+.sign-box{
+    padding-right: 50px;
+    text-align: center;
+}
+.sign-btn{
+    color: white;
+    background-color: chocolate;
+    text-align: center;
+    padding: 6px 45px;
+   
+}
+.sign-btn:hover{
+    background-color: orange;
+    transition: all 0.5s;
+}
+.sec-2{
+  
+    /* background-color: rgb(209, 88, 88); */
+}
+.h4{
+text-align: center;
+margin-top: 50px;
+}
+.bills{
+    margin: 10px;
+    text-align: center
+}
+.sec-3{
+   
+    /* height: 500px; */
+}
+.personal{
+    margin-top: 150px;
+    font-size:35px;
+}
+.sec3-img{
+    margin-top: 100px;
+    
+    
+}
+.Bills-box{
+    min-height: 120px; 
+    /* background-color: aqua; */
+}
+.icon1{
+    font-size: 20px;
+    padding-right: 20px;
+    
+}
+.list{
+    font-size: 20px;
+
+   
+    
+}
+.box-personal{
+    
+    /* background-color: brown; */
+}
+.box-personal2{
+    
+    /* background-color: brown; */
+    padding-top: 70px;
+}
+ul{
+    padding: 0px;
+    margin: 0px;
+}
+.signfree{
+    font-size: 24px;
+    text-decoration: none;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.signup{
+    margin-top: 35px;
+   
+}
+.box-get{
+    /* height: 400px; */
+    padding-top: 50px;
+    margin: 150px;
+}
+.sec-4{
+ background-image: url(smartphn.jpg);
+ animation-name: example;
+ /* animation-duration: 4s; */
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-position: center;
+}
+
+/* @keyframes example {
+    from {background-image: url(smartphn.jpg);}
+    to {background-image: url(laptop-png.png);}
+  } */
+ul{
+    padding: 0px;
+    margin: 0px;
+}
+.box-get{
+    /* background-color: brown; */
+    /* height: 300px; */
+     /* padding-left: 50px; */
+}
+.list1{
+    padding: 10px;
+    font-size: 19px;
+
+}
+.Intutive{
+    text-align: center;
+    margin-top: 80px;
+
+}
+
+
+
+.sec-5{
+  background-color: rgb(95, 147, 135); 
+  margin-top: 50px;
+
+}
+.img-box{
+    margin: 150px;
+}
+.img{
+    text-align: center;
+}
+.img-head{
+    margin-top: 20px;
+}
+.mint-box{
+    text-align: center;
+
+ 
+}
+.mint-img{
+    margin-top: -50px;
+}
+.see{
+margin-top: 80px;
+}
+.see-para{
+    margin-top: 15px;
+}
+.news-box{
+    text-align: center;
+
+  
+
+}
+.news-btn{
+    margin: 20px;
+    margin-bottom: 100px;
+    
+    background-color: rgb(95, 147, 135); 
+   padding: 13px;
+   border: solid 1px white;
+   
+}
+.news{
+    text-decoration: none;
+    color: white;
+
+}
+.news:hover{
+    text-decoration: none;
+    color:#4cd5ac;
+}
+.signup{
+    text-align: center;
+}
+.create-box{
+    margin-top: 20px;
+    text-align: center;
+    
+}
+.create-btn{
+    background-color: rgb(243, 116, 12);
+    border: 1px solid white;
+    padding: 8px 40px;
+    color: white;
+}
+.create{
+   
+    text-decoration: none;
+
+}
+.create-btn:hover{
+    background-color: orange;
+    border: 1px solid white;
+    padding: 8px 40px;
+    color: white;
+    transition: all 0.5sS;
+}
+.login-btn{
+    background-color: white;
+    border: 1px solid gray;
+    padding: 8px 40px;
+    margin: 8px;
+    color:black;
+}
+.login{
+  color: gray;
+    text-decoration: none;
+
+}
+.login:hover{
+    color: #4cd5ac;
+    text-decoration: none;
+}
+.signup-box{
+    margin: 100px;
+}
+.sec-6{
+    background-color: black;
+    padding: 20px;
+}
+.download-head{
+    margin-top:100px;
+    text-align: center;
+}
+.avail{
+    border: 1px solid white;
+    padding: 25px 15px;
+    margin: 10px;
+
+}
+
+
+.avail-box{
+    margin-top: 50px;
+    text-align: center;
+padding: 0px 60px;
+}
+.download-box{
+    margin: 120px;
+}
+.hr{
+    background-color: rgb(63, 65, 67);
+}
+.in{
+    text-align: center;
+    margin-top: 50px;
+}
+.logo-box{
+    height: 100px;
+}
+.vl {
+    border-left: 1px solid white;
+    height: 15px;
+    
+ 
+  }
+ 
+
+   
+  
+  .vl-box{
+text-align: center;
+font-size: 25px;
+
+
+
+   
+  }
+.icon-logo{
+    color:rgb(38, 132, 186);
+    padding: 25px;
+}
+.support{
+    font-size: 15px;
+    color: white;
+    padding:0px 20px;
+}
+.security{
+    font-size: 15px;
+    color: white;
+    padding:0px 15px;
+}
+@media(max-width:1200px){
+    .avail img{
+
+        width:150px;
+    }
+    .avail img.amz{
+    
+        width:130px;
+    }
+    .img-box {
+        margin: 0px;
+    }
+    .box-get {
+        padding-bottom: 50px;
+        margin: 0px; 
+    }
+    .signup-box {
+        margin: 0px;
+    }
+    .download-box {
+        margin: 0px;
+    }
+}
